@@ -1,0 +1,11 @@
+.color-b {
+	background-color: #6c63ff;
+}
+.color {
+	color: #6c63ff;
+}
+body::before {
+	content: '';
+	height: 60px;
+	display: block;
+}
